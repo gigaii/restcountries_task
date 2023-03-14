@@ -8,7 +8,7 @@ This project was created using react framework and tailwindcss to list all the c
 # Function that i created
 
 ### `List all countries`
-![All-countries](get_all_countries.png)
+![All-countries](all_countries.png)
 
 ### `Search countries`
 ![Search-countries](search_countries.png)
