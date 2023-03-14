@@ -12,7 +12,7 @@ This project was created using react framework and tailwindcss to list all the c
 ### `Overview`
 ![Desktop](desktop.png)
 
-### Function that i created
+## Function that i created
 
 ### `List all countries`
 ![All-countries](all_countries.png)
