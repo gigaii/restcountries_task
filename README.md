@@ -2,6 +2,13 @@
 
 This project was created using react framework and tailwindcss to list all the countries data.
 
+### Achievement
+
+- Able to create components
+- Able to integrate and fetch data from restcountries api
+- Able to write functions
+- Able to use flex box and grid system
+
 ### `Overview`
 ![Desktop](desktop.png)
 
@@ -28,26 +35,22 @@ This project was created using react framework and tailwindcss to list all the c
 - See more details about country by click on it
 - Mobile and Desktop responsive
 
-### Code Splitting
+### Key feature images
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### `Card View`
 
-### Analyzing the Bundle Size
+![card-view](desktop.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### `List View`
 
-### Making a Progressive Web App
+![list-view](list-view.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### `Country Details`
 
-### Advanced Configuration
+![country-details](country-details.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### `Dark Mode`
 
-### Deployment
+![dark](darkmode.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
