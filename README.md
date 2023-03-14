@@ -2,6 +2,9 @@
 
 This project was created using react framework and tailwindcss to list all the countries data.
 
+### `Overview`
+![Desktop](desktop.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
