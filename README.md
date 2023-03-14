@@ -26,6 +26,11 @@ This project was created using react framework and tailwindcss to list all the c
 ### `Darkmode function`
 ![dark-mode](darkmode_function.png)
 
+### Technicality
+
+- Add darkmode class in tailwind.config.js
+- Use react routing
+
 ## Key Features
 
 - Search countries
